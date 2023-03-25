@@ -1,0 +1,12 @@
+D:\NT106\Client_Sever\Client\bin\Debug\Client.exe.config
+D:\NT106\Client_Sever\Client\bin\Debug\Client.exe
+D:\NT106\Client_Sever\Client\bin\Debug\Client.pdb
+D:\NT106\Client_Sever\Client\obj\Debug\Client_Sever.csproj.AssemblyReference.cache
+D:\NT106\Client_Sever\Client\obj\Debug\Client_Sever.csproj.SuggestedBindingRedirects.cache
+D:\NT106\Client_Sever\Client\obj\Debug\Client.Client.resources
+D:\NT106\Client_Sever\Client\obj\Debug\Client.Properties.Resources.resources
+D:\NT106\Client_Sever\Client\obj\Debug\Client.Sever.resources
+D:\NT106\Client_Sever\Client\obj\Debug\Client_Sever.csproj.GenerateResource.cache
+D:\NT106\Client_Sever\Client\obj\Debug\Client_Sever.csproj.CoreCompileInputs.cache
+D:\NT106\Client_Sever\Client\obj\Debug\Client.exe
+D:\NT106\Client_Sever\Client\obj\Debug\Client.pdb
